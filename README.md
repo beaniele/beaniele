@@ -2,7 +2,8 @@
 📑Freshman, HS </br>
 👾Hacker/Hackathon Participant </br>
 🎧Music Enthusiast (enhypen!!) </br>
-💫 Interact or follow me on [instagram](https://www.instagram.com/beanie.le/)⊹₊⟡⋆
+💫 Interact or follow me on [instagram](https://www.instagram.com/beanie.le/)⊹₊⟡⋆</br>
+⌨️I mainly build projects using Arduino and its IDE - check out my repos for any code!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/beanie.le)
